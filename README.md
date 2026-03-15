@@ -156,4 +156,4 @@ python scripts/inference_clip.py --dataset_type=flowers_encode \
 
 
 ### Evaluate
-You can evaluate the generated samples using the script we provided in `scripts/calc_metric.py`. We also provide our [generated samples](https://drive.google.com/drive/folders/1gx7Vx7kvGa78taePSJ_wrkiyZrYPRwNI?usp=sharing) by the model we have trained.
+You can evaluate the generated samples using the script we provided in `scripts/calc_metric.py`. 
