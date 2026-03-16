@@ -1,0 +1,9 @@
+[tool.black]
+line-length = 79
+target-version = ["py38"]
+skip-string-normalization = true
+
+[tool.isort]
+profile = "black"
+line_length = 79
+known_third_party = ["numpy", "torch", "cv2"]
