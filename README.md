@@ -1,4 +1,4 @@
-# Semantic Editing of Category-Level Latent Representations for Few-Shot Image Generation
+# Variance Constrained Distribution Alignment in Few-shot Models
 
 In this paper, we propose **Category-Level Attribute Editing (CAE)**,
 a method that disentangles and manipulates category-level latent representations for flexible and efficient few-shot synthesis. Our approach adopts a structured two-stage paradigm:
